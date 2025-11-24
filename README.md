@@ -1,46 +1,16 @@
-# Portfolio - Classic Professional Design
+# Himanshu Jain - Portfolio
 
-## 🎨 Design Style
-**Classic Professional & Traditional**
+Personal portfolio website showcasing my projects and skills as a Java Full Stack Developer.
 
-This is a clean, professional portfolio design that works great for:
-- Traditional companies (Banks, Corporations, Government)
-- Print-friendly version
-- Fast loading required
-- Conservative recruiters
-- General professional use
+## Live Demo
+[View Portfolio](https://himanshujain1991.github.io/HimanshuJain-Portfolio-Classic/)
 
-## ✨ Features
-- ✅ Clean and readable design
-- ✅ Professional look
-- ✅ Fast loading speed
-- ✅ Print-friendly
-- ✅ Simple animations
-- ✅ Mobile responsive
-- ✅ Cross-browser compatible
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
 
-## 🚀 How to Use
-1. Open `index.html` in your browser
-2. That's it! Works locally
-
-## 📤 Deployment
-- Upload to GitHub Pages
-- Use Netlify or Vercel
-- Host on any web server
-
-## 💡 Best For
-- Job applications to traditional companies
-- Print version for interviews
-- Email attachments
-- LinkedIn alternative profile
-- General professional portfolio
-
-## 🎯 Color Scheme
-- Primary: Purple/Blue gradient
-- Background: Dark theme
-- Clean cards with borders
-- Minimal effects
-
----
-
-**Version**: 1.0 - Classic Professional
+## Contact
+- Email: himanshujain119@yahoo.com
+- LinkedIn: [Himanshu Jain](https://www.linkedin.com/in/himanshu-jain-0946ba9b)
+- GitHub: [HimanshuJain1991](https://github.com/HimanshuJain1991)
